@@ -1,6 +1,6 @@
 ### Hi there 👋, I 'm Ankit Rao  (dragonuncaged)
 #### I am Competitive Coder                                               Programming Enthusiast                    
-![I am Competitive Coder                                               Programming Enthusiast                    ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Competitive Coder                                               Programming Enthusiast                    ](https://github.com/DragonUncaged/DragonUncaged/blob/Advance/Name%20Banner.png)
 
 Currently, I am a Student Pursuing B.Tech. Computer Science
 

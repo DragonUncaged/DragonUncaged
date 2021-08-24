@@ -2,7 +2,7 @@
 ### 
 ![                                           ](https://github.com/DragonUncaged/DragonUncaged/blob/Advance/Name%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Ankit Rao</h1>
+<h1 align="center">Hi  <img src="https://github.com/DragonUncaged/DragonUncaged/blob/Advance/Hi.gif" width="29px">, I'm Ankit Rao</h1>
 <h3 align="center">A passionate Competitive Coder and Programming Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragonuncaged&label=Profile%20views&color=0e75b6&style=flat" alt="dragonuncaged" /> </p>

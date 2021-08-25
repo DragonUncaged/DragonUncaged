@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/DragonUncaged/DragonUncaged/blob/Advance/Hi.gif" width="29px">
 
 <!--
 **DragonUncaged/DragonUncaged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

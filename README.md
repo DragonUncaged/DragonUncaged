@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **C++ / Python / JavaScript / HTML / CSS**
 
-- ⚡ Fun fact **"I love the smell of the universe in the morning."**
+- ⚡ **"We are the Programmers, trying to make sense of the stars inside us."**
 
 <h2 align="left">Languages and Tools: <img src = "https://github.com/DragonUncaged/DragonUncaged/blob/Advance/developer.gif" width = 70px> </h2>
 <p align="centre">  

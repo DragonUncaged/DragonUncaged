@@ -12,7 +12,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/DragonUncaged/DragonUncaged/blob/main/git-header.svg" />
 
 - 🌱 I’m currently learning **Full Stack Development**
 
@@ -25,7 +25,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragonuncaged&label=Profile%20views&color=0e75b6&style=flat" alt="dragonuncaged" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dragonuncaged" alt="dragonuncaged" /></a> </p>
-
+<img width="24%" align="right" alt="GithubBanner" src="https://github.com/DragonUncaged/DragonUncaged/blob/main/banner%202%20github.png" />
+  
 <p align="left"> <a href="https://twitter.com/dragonuncaged" target="blank"><img src="https://img.shields.io/twitter/follow/dragonuncaged?logo=twitter&style=for-the-badge" alt="dragonuncaged" /></a> </p>
 
 <h2 align="left">Languages and Tools: <img src = "https://github.com/DragonUncaged/DragonUncaged/blob/Advance/developer.gif" width = 70px> </h2>

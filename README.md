@@ -20,7 +20,9 @@
 
 - ⚡ **"We are the Programmers, trying to make sense of the stars inside us."**
 
+
 <details>
+   <summary><b>Other Details Here</b></summary>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragonuncaged&label=Profile%20views&color=0e75b6&style=flat" alt="dragonuncaged" /> </p>
 

@@ -23,7 +23,7 @@
 <br>
 <details>
   <br>
-   <summary><h4 align="left">Other Details Here</h4></summary>
+   <summary><h2 align="left">For More Details Click Here</h2></summary>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragonuncaged&label=Profile%20views&color=0e75b6&style=flat" alt="dragonuncaged" /> </p>
 

@@ -25,7 +25,7 @@
   <br>
    <summary><h2 align="left">👉For More Details Click Here🖇️</h2></summary>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dragonuncaged&label=Profile%20views&color=0e75b6&style=flat" alt="dragonuncaged" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragonuncaged&label=Profile%20views&color=0e75b6&style=flat" alt="dragonuncaged" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dragonuncaged" alt="dragonuncaged" /></a> </p>
 <img width="24%" align="right" alt="GithubBanner" src="https://github.com/DragonUncaged/DragonUncaged/blob/main/banner%202%20github.png" />
@@ -43,7 +43,7 @@
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-</p>
+</p> -->
 
 <br>
 <h2 align="left"> Connect with me: <img src='https://github.com/DragonUncaged/DragonUncaged/blob/Advance/handshake.gif' width="100px">

@@ -14,9 +14,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://github.com/DragonUncaged/DragonUncaged/blob/main/git-header.svg" />
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m a **Full Stack Development**
 
-- 💬 Ask me about **C++ / Python / JavaScript / HTML / CSS**
+- 💬 Ask me about **C++ / JavaScript / HTML / CSS**
 
 - ⚡ **"We are the Programmers, trying to make sense of the stars inside us."**
 

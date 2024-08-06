@@ -14,7 +14,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://github.com/DragonUncaged/DragonUncaged/blob/main/git-header.svg" />
 
-- 🌱 I’m a **Full Stack Development**
+- 🌱 **Full Stack Developer**
 
 - 💬 Ask me about **C++ / JavaScript / HTML / CSS**
 
